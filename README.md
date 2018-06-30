@@ -1,2 +1,2 @@
 # koti
-git repo 
+koti repo for git commands demonstration
